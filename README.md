@@ -1,4 +1,5 @@
 # Easy-Number-Recognition-with-Tesseract
+---
 Here, we use **Tesseract**, an open source text recognition (OCR) Engine to identify any number that you have handwritten. All you need to do is easily install Tesseract and upload the image file name.
 
 **Guidance on how to install Tesseract** is found at https://tesseract-ocr.github.io/tessdoc/Installation.html
